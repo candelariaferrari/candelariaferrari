@@ -104,7 +104,7 @@ API REST desarrollada como parte de mi formación backend, con documentación de
 
 💼 [LinkedIn](https://www.linkedin.com/)
 
-🌐 [Portfolio](https://candelariaferrari.netlify.app/)
+🌐 [Portfolio](https://candelaria-ferrari.netlify.app/)
 
 📧 [Email](mailto:ferrari.candelaria@gmail.com)
 
